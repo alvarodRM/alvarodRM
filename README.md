@@ -10,7 +10,7 @@ Muchos de mis proyectos están basados en IaC "Infraestructura como código". Pa
 * Terraform
 * Ansible
 
-Tambiém me gusta programar aplicaciones, utilizando diversos lenguajes:
+También me gusta programar aplicaciones, utilizando diversos lenguajes:
 * Java - Programación de aplicaciones escritas en Java y utilizando eclipse.
 * HTML, CSS, JavaScript -  Páginas Web
 * React, ReactNative - Programación de apliaciones web y móviles.
