@@ -18,3 +18,5 @@ También me gusta programar aplicaciones, utilizando diversos lenguajes:
 
 Finalmente también podréis observar proyectos de aplicaciones distribuídas en entornos de alta disponibilidad.
 En estos proyectos utilizo clústers de nodos, orquestados por Kubernetes y aplicaciones distribuidas basadas en microservicios almacenadas en contenedores y unidades más pequeñas de medida como pods.
+
+Actualmente estoy aprendiendo diversas tecnologías de big data y desarrollando arquitecturas y aplicaciones BlockChain.
